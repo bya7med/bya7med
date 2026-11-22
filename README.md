@@ -30,7 +30,7 @@ Most client and product source stays private. The public repos are the engineeri
 | --- | --- |
 | **[LeadRoute](https://leadroute.co.uk)** | Founder. Automations for UK businesses: websites, chat, SMS, CRM. Live. Source private. |
 | **Pathera** | Developer of the live stack, not the founder. Database, backend, auth, email, and Stripe. Checkout used a one-use token so a payment lands on the right account; later webhook events follow metadata and database fallbacks. **5,000+** user records. |
-| **Leaf Pathways** | CTO Jan–Sep 2026. Built and shipped the platform (Next.js, Supabase, auth, admin). Past tense. |
+| **Leaf Pathways** | CTO Jan-Sep 2026. Built and shipped the platform (Next.js, Supabase, auth, admin). Past tense. |
 | **[TMUA Prep](https://tmuaprep.co.uk)** | Practice bank I built. **688** questions. **320** official from **16** papers, all **320/320** matched. Explanations stay on the right question after the options shuffle. Source private while it ships as a product. |
 | **[Unravel](https://github.com/bya7med/Hackathon---Unravel)** | Chrome extension from a 300+ education hackathon. Highlight a dense page, get one concept at a time, ask questions with that page already in context. |
 | **[Ticket reservation](https://github.com/bya7med/ticket-reservation)** | Python and PostgreSQL. Two buyers cannot take the last seat. Holds sit in a transaction and expire. A repeat request does not book twice. |
